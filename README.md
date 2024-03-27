@@ -1,12 +1,16 @@
 # Flutter E-commerce App
 
-This is an e-commerce app built with Flutter & Dart,  built (and still working on it) in this [playlist on YouTube](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXpW_Hazx7jCYqwVlwe7SYk).
-
-## Why does this playlist exist?
-
-The main reason for this playlist is to simulate a part of the process we take with our teams to build a mobile application, we need to plan for the project, decide on how we will handle the state management, routing approaches, theming and so on, writing the code and after that refactoring it after seeing a better approach to do something or after code reviewing.
-
 ## Feature Set ✨
+- User authentication (login, register, forgot password)
+- Product listing with categories and filters
+- Product details page with images, description, price, and reviews
+- Add to cart functionality
+- Cart page showing added products with quantity and total price
+- Checkout process with shipping address and payment options
+- Order history for users to track their past purchases
+- Search functionality to easily find products
+- Wishlist feature for users to save products for later
+- User profile page with settings and order history
+- Responsive design for both mobile and web platforms
 
-"# E-commerce-application" 
-"# E-commerce-application" 
+
