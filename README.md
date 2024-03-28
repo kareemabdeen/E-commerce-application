@@ -1,6 +1,11 @@
 # Flutter E-commerce App
 ## App view
 
+
+https://github.com/kareemabdeen/E-commerce-application/assets/118139061/d47272c8-abc9-4a9a-afb1-bb64fd6a7440
+
+
+
 ![Green Minimalist Digital Product Mockups Animated Instagram Story](https://github.com/kareemabdeen/E-commerce-application/assets/118139061/0c99de6d-a328-4eaa-8870-b0cca3aec59d)
 
 ## Feature Set ✨
