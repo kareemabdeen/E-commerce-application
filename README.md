@@ -1,5 +1,5 @@
-![Green Minimalist Digital Product Mockups Animated Instagram Story](https://github.com/kareemabdeen/E-commerce-application/assets/118139061/44af51cb-1487-44de-bd0c-2a8eea4d02d0)# Flutter E-commerce App
-# App view
+# Flutter E-commerce App
+## App view
 
 ![Green Minimalist Digital Product Mockups Animated Instagram Story](https://github.com/kareemabdeen/E-commerce-application/assets/118139061/0c99de6d-a328-4eaa-8870-b0cca3aec59d)
 
